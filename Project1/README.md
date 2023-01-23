@@ -7,3 +7,4 @@ This is a readme file consisting of directions on how to install program.
 	5. Then install all nessisary packages (numpy, scipy.integrate, matplotlib.pyplot, datetime)
 	6. Install packages either with pip in the command line or in the IDE
 	7. Run the script and then the plot graph will appear
+	8. Run with python main.py or in IDE
